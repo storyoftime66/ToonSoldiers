@@ -1,7 +1,12 @@
+# UE build files
 Build
 DerivedDataCache
 Intermediate
 Saved
+
+# Game saves
 Saves
+
+# IDE settings
 .vs
 .idea
